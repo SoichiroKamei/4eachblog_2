@@ -1,1 +1,3 @@
 # 4eachblog_2
+プログラマカレッジでの演習で作成したものです。
+HTML、CSSの履修終わりに作成した4eachblogを参考にBootstrap4を用いて作成したものです。
